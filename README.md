@@ -2,7 +2,6 @@
 A machine learning project focused on classifying emails as spam or ham using natural language processing (NLP) techniques such as tokenization, stemming, and various classification models.
 Below is an updated README.md that reflects your project as an IPython Notebook file:
 
-```markdown
 # Spam Email Classification
 
 This repository demonstrates a complete machine learning pipeline for classifying emails as spam or ham using a Jupyter Notebook. The project covers data preprocessing, feature extraction, and model evaluation using NLP techniques.
